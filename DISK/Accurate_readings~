@@ -1,0 +1,70 @@
+Output of 	1B	 Sequencial 	 Write
+Inside Write Before Calloc : 	1 	104857600 : 
+ 	elapsed-time : 	2.168329
+ 	Throughput : 	46.118463  MB/s
+ 	Latency : 	0.000021 ms
+
+
+ Output of 	1B	 Sequencial 	 Read
+
+ 	elapsed-time : 	1.749993
+ 	Throughput : 	57.143083  MB/s
+ 	Latency : 	0.000017 ms
+
+
+ Output of 	1KB	 Sequencial 	 Write
+Inside Write Before Calloc : 	1024 	102400 : 
+ 	elapsed-time : 	0.091036
+ 	Throughput : 	1098.465560  MB/s
+ 	Latency : 	0.000889 ms
+
+
+ Output of 	1KB	 Sequencial 	 Read
+
+ 	elapsed-time : 	0.051459
+ 	Throughput : 	1943.291866  MB/s
+ 	Latency : 	0.000503 ms
+
+
+ Output of 	1MB	 Sequencial 	 Write
+Inside Write Before Calloc : 	1048576 	100 : 
+ 	elapsed-time : 	0.078564
+ 	Throughput : 	1272.848771  MB/s
+ 	Latency : 	0.785639 ms
+
+
+ Output of 	1MB	 Sequencial 	 Read
+
+ 	elapsed-time : 	0.036168
+ 	Throughput : 	2764.867502  MB/s
+ 	Latency : 	0.361681 ms
+
+
+ Output of 	1KB	 Random 	 Write
+
+ 	elapsed-time : 	0.366740
+ 	Throughput : 	272.672747  MB/s
+ 	Latency : 	0.003581 ms
+
+
+ Output of 	1KB	 Random 	 Read
+
+ 	elapsed-time : 	0.127524
+ 	Throughput : 	784.165272  MB/s
+ 	Latency : 	0.001245 ms
+
+
+ Output of 	1MB	 Random 	 Write
+
+ 	elapsed-time : 	0.097855
+ 	Throughput : 	1021.919237  MB/s
+ 	Latency : 	0.978551 ms
+
+
+ Output of 	1MB	 Random 	 Read
+
+ 	elapsed-time : 	0.040328
+ 	Throughput : 	2479.665145  MB/s
+ 	Latency : 	0.403280 ms
+
+
